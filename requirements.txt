@@ -1,0 +1,12 @@
+fastapi[all]
+uvicorn[standard]
+python-jose[cryptography]
+passlib[bcrypt]
+sqlalchemy
+mysqlclient
+alembic
+email-validator
+httpx
+python-dotenv
+fastapi-pagination[all]
+pytest
